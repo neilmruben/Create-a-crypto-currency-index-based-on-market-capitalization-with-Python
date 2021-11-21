@@ -2,7 +2,7 @@
 
 ### Here we want to create a crypto currency index with the 5 biggest markets capitalizations of crypto currencies. On November 2021, the 5 biggest markets capitalizations are Bitcoin, Ethereum, Binance coin, Tether and Solana.
 ### We grab our data from CoinMarketCap.
-### Market Value-Weighted Index : ![image](https://user-images.githubusercontent.com/81652761/142743309-1895149f-951e-4d7a-8b8c-0578adfcf2be.png)
+### Market Value-Weighted Index : ![image](https://user-images.githubusercontent.com/81652761/142762314-5c5d3fa6-62e2-465e-b9c1-b9a72f7a4a23.png)
 ### where p is the price of the crypto-currency and n the number of crypto-currency issued. To upscale the index, we will divide it by ![image](https://user-images.githubusercontent.com/81652761/142743336-955df7c2-218e-4730-8c3a-96b8c809d754.png). 
 
 ![image](https://user-images.githubusercontent.com/81652761/142743346-0f495860-993f-4459-b8ce-3fa01ef2d3dd.png)
